@@ -1,2 +1,2 @@
 # gitTest
-## Hello Wordl!
+## Hello World!
